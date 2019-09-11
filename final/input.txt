@@ -1,0 +1,23 @@
+CREATE EXTERNAL TABLE DPI_CDR_UNPACK(
+  msisdn_key Real,
+  unique_id_enrich Real,
+  typ String,
+  protocol String,
+  protocol_category String,
+  protocol_uc_si String,
+  uri String,
+  uplink Real,
+  downlink Real,
+  scheme String,
+  user String,
+  domain String,
+  port Int,
+  duration Real,
+  date_key Int,
+  hour String,
+  original_timestamp_enrich String,
+  tbl_dt Int,
+  hr String)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY "|"
+LOCATION <C:\Users\muzna\Desktop\Compiler\HugeData\DPI_MID>;
+SELECT sum(uplink) from DPI_CDR_UNPACK;

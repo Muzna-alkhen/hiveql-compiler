@@ -1,0 +1,22 @@
+and - or - not - is
+------------------------------------------------------------------
+SELECT * FROM CUSTOMERS WHERE  (AGE >= 25) ;
+SELECT * FROM CUSTOMERS WHERE ( exp1 operator exp2)
+SELECT * FROM CUSTOMERS WHERE ( (AGE >= 25) AND (SALARY >= 6500) );
+SELECT * FROM CUSTOMERS WHERE (AGE IS NOT NULL);
+SELECT * FROM CUSTOMERS WHERE (AGE IS  NULL);
+SELECT * FROM CUSTOMERS WHERE NAME LIKE 'Ko%';
+--------------------------------------------------------------------
+
+
+
+tree buildTree(prefix):
+    c := secound item of prefix
+    if c is a number then
+        return a tree node containing the number
+    else
+        create a tree node t
+        t.left := buildTree(rest of prefix)
+        t.right := buildTree(rest of prefix)
+        return t
+

@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2401648-afb9-480b-9005-64bbe82d0ad2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1313294401">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="final" />
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/src/start/Launch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/MapperController.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/ReducerController.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/ShuffleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>T_TERMINATED</find>
+      <find>T_BY</find>
+      <find>unit</find>
+      <find>utemp</find>
+      <find>L_FILE</find>
+      <find>select_stmt :</find>
+      <find>select_list :</find>
+      <find>Ident :</find>
+      <find>table_name :</find>
+      <find>create_function_stmt :</find>
+      <find>ident :</find>
+      <find>create_table_stmt :</find>
+      <find>L_File</find>
+      <find>ass</find>
+      <find>where_</find>
+      <find>expr_agg_window_func</find>
+      <find>temp_ast</find>
+      <find>from_clause :</find>
+      <find>Where_clause :</find>
+      <find>bool_expr_binary_op</find>
+      <find>= from</find>
+      <find>bool_expr_binary :</find>
+      <find>Launch.temp_ast</find>
+      <find>from</find>
+      <find>sub</find>
+      <find>from_join_clause :</find>
+      <find>bool_expr</find>
+      <find>bool_expr :</find>
+      <find>token</find>
+      <find>expr :</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/after.g4" />
+        <option value="$PROJECT_DIR$/src/MyListener.java" />
+        <option value="$PROJECT_DIR$/src/Scope.java" />
+        <option value="$PROJECT_DIR$/src/TEST.java" />
+        <option value="$PROJECT_DIR$/src/HQL.g4" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/Symbol.java" />
+        <option value="$PROJECT_DIR$/src/AST.java" />
+        <option value="$PROJECT_DIR$/src/Unit.java" />
+        <option value="$PROJECT_DIR$/src/FunctionSymbol.java" />
+        <option value="$PROJECT_DIR$/src/DataType.java" />
+        <option value="$PROJECT_DIR$/src/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Column.java" />
+        <option value="$PROJECT_DIR$/src/Launch.java" />
+        <option value="$PROJECT_DIR$/src/DataTypes.java" />
+        <option value="$PROJECT_DIR$/src/symbolTable/Symbol.java" />
+        <option value="$PROJECT_DIR$/src/symbolTable/VariableSymbol.java" />
+        <option value="$PROJECT_DIR$/src/symbolTable/FunctionSymbol.java" />
+        <option value="$PROJECT_DIR$/src/datatype/Column.java" />
+        <option value="$PROJECT_DIR$/src/symbolTable/Scope.java" />
+        <option value="$PROJECT_DIR$/src/ast/HavingNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/ProgramNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/ValueNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/GroupByNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/SelectStmtNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/IdentNode.java" />
+        <option value="$PROJECT_DIR$/src/project/HQL.g4" />
+        <option value="$PROJECT_DIR$/src/ast/SelectListNode.java" />
+        <option value="$PROJECT_DIR$/src/datatype/DataType.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/ast/Node.java" />
+        <option value="$PROJECT_DIR$/src/project/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ast/JoinNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/AggregationNode.java" />
+        <option value="$PROJECT_DIR$/final.plantuml" />
+        <option value="$PROJECT_DIR$/src/ast/ast.plantuml" />
+        <option value="$PROJECT_DIR$/src/ast/WhereNode.java" />
+        <option value="$PROJECT_DIR$/src/codeGeneration/ShuffleController.java" />
+        <option value="$PROJECT_DIR$/src/codeGeneration/ReducerController.java" />
+        <option value="$PROJECT_DIR$/src/codeGeneration/MapperController.java" />
+        <option value="$PROJECT_DIR$/src/project/Launch.java" />
+        <option value="$PROJECT_DIR$/src/datatype/DataTypes.java" />
+        <option value="$PROJECT_DIR$/src/ast/FromNode.java" />
+        <option value="$PROJECT_DIR$/src/parser/HQL.g4" />
+        <option value="$PROJECT_DIR$/draft.txt" />
+        <option value="$PROJECT_DIR$/src/ast/ConditionNode.java" />
+        <option value="$PROJECT_DIR$/src/ast/ExprNode.java" />
+        <option value="$PROJECT_DIR$/src/parser/MyVisitor.java" />
+        <option value="$PROJECT_DIR$/src/start/Launch.java" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/final/src/codeGeneration/ShuffleController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="final" type="58d84e3e:PackageViewProjectNode" />
+              <item name="final" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="final" type="58d84e3e:PackageViewProjectNode" />
+              <item name="final" type="616d4139:PackageViewModuleNode" />
+              <item name="ast" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codeGeneration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/HQL.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/HQL.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/HQL.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/HQL.g4::/output-dir" value="C:\Users\muzna\Desktop\4th\compiler\final\src" />
+    <property name="$PROJECT_DIR$/src/project/HQL.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/project/HQL.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/project/HQL.g4::/gen-visitor" value="false" />
+    <property name="$PROJECT_DIR$/src/project/HQL.g4::/output-dir" value="C:\Users\muzna\Desktop\4th\compiler\final\src\project" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="ToolWindowsimpleUML.ShowToolbar" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559377778827" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ANTLRv4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/final" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muzna\Desktop\4th\compiler\final\src\datatype" />
+      <recent name="C:\Users\muzna\Desktop\4th\compiler\final\src\ast" />
+      <recent name="C:\Users\muzna\Desktop\4th\compiler\final" />
+      <recent name="C:\Users\muzna\Desktop\4th\compiler\final\src\project" />
+      <recent name="C:\Users\Muzna Alkhen\IdeaProjects\final\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launch">
+    <configuration name="Launch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="final" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ST-4.1.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/ST-4.1.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launch" />
+      <item itemvalue="JAR Application.ST-4.1.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.ST-4.1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2401648-afb9-480b-9005-64bbe82d0ad2" name="Default Changelist" comment="" />
+      <created>1542808101978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542808101978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="simpleUML" order="0" show_stripe_button="false" sideWeight="0.85169494" weight="0.37821484" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.8773424" visible="true" weight="0.23524962" />
+      <window_info id="Favorites" order="6" sideWeight="0.6038136" side_tool="true" weight="0.19440243" />
+      <window_info id="Structure" order="7" sideWeight="0.12265758" side_tool="true" visible="true" weight="0.23524962" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.36824876" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.27760968" side_tool="true" weight="0.512275" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="4" sideWeight="0.7223903" weight="0.35188216" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Tool Output" order="6" sideWeight="0.49924356" weight="0.33908045" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.34042552" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.7443268" weight="0.31516185" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3979885" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32879046" />
+      <window_info anchor="right" id="Code Iris" order="0" weight="0.23524962" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.056732222" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.11951589" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AST.java" />
+    <entry file="file://$PROJECT_DIR$/src/symbolTable/Symbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/symbolTable/FunctionSymbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/symbolTable/Scope.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/ValueNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/MyErrorListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/symbolTable/VariableSymbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/HQLListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/datatype/DataType.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/HQLBaseVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/datatype/Column.java" />
+    <entry file="file://$PROJECT_DIR$/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ast/GroupByNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/HavingNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/ASTClassDiagram.suml" />
+    <entry file="file://$PROJECT_DIR$/src/datatype/ASTClassDiagram.suml" />
+    <entry file="file://$PROJECT_DIR$/final.iml" />
+    <entry file="file://$PROJECT_DIR$/final.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/ast/ast.plantuml" />
+    <entry file="file://$PROJECT_DIR$/src/project/project.plantuml" />
+    <entry file="file://$PROJECT_DIR$/ASTClassDiagram.suml" />
+    <entry file="file://$PROJECT_DIR$/src/ast/SelectListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/HQLBaseListener.java" />
+    <entry file="jar://$USER_HOME$/Downloads/ST-4.1.jar!/org/stringtemplate/v4/ST.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/test.st" />
+    <entry file="jar://$USER_HOME$/Downloads/antlr-4.7.2-complete.jar!/org/stringtemplate/v4/ST.class" />
+    <entry file="file://$PROJECT_DIR$/src/ast/WhereNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/SelectStmtNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/ProgramNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/codeGeneration/ReducerController.java" />
+    <entry file="file://$PROJECT_DIR$/src/codeGeneration/ShuffleController.java" />
+    <entry file="file://$PROJECT_DIR$/src/codeGeneration/MapperController.java" />
+    <entry file="file://$PROJECT_DIR$/../group38-compiler/src/AST.java" />
+    <entry file="file://$PROJECT_DIR$/src/datatype/DataTypes.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/AggregationNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/ExprNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/HQLParser.java" />
+    <entry file="file://$PROJECT_DIR$/src/parser/HQL.g4" />
+    <entry file="file://$PROJECT_DIR$/src/start/Launch.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/FromNode.java" />
+    <entry file="file://$PROJECT_DIR$/draft.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ast/JoinNode.java" />
+    <entry file="file://$PROJECT_DIR$/input.txt" />
+    <entry file="file://$PROJECT_DIR$/src/parser/MyVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ast/IdentNode.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/final/src/start/Launch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/MapperController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/ReducerController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/src/codeGeneration/ShuffleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile1" value="file://$PROJECT_DIR$/ASTClassDiagram.suml" />
+      <option name="knownFile2" value="file://$PROJECT_DIR$/src/ast/ASTClassDiagram.suml" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../AstDiagram.suml" />
+      <option name="knownFile3" value="file://$PROJECT_DIR$/src/datatype/ASTClassDiagram.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
